@@ -1,8 +1,4 @@
-### 📜 Internship Certificate
-
-[🔗 View Internship Certificate](./Internship%20Certificate%20-%20Chandragiri%20Parameswari.pdf)### 📜 Internship Certificate
-
-[🔗 View Internship Certificate](./Internship%20Certificate%20-%20Chandragiri%20Parameswari.pdf)# EMERTXE--IOT
+# EMERTXE--IOT
 ## 🚀 Internet of Things (IoT) Internship  ### 📜 Internship Certification – Emertxe  Successfully completed an **Internet of Things (IoT) Internship at Emertxe**, affiliated with **NSDC &amp; ESSCI**, gaining practical exposure to embedded programming and IoT project development.
 ### 🔹 Internship Highlights
 
@@ -26,5 +22,7 @@
 | **Certificate ID** | EI26_015 |
 | **Affiliated With** | NSDC & ESSCI |
 
-###Certificate
-[📜 View Internship Certificate](./Certificates/Internship%20Certificate%20-%20Chandragiri%20Parameswari.pdf)
+### 📜 Internship Certificate
+
+[🔗 View Internship Certificate](./Internship%20Certificate%20-%20Chandragiri%20Parameswari.pdf)### 📜 Internship Certificate
+
