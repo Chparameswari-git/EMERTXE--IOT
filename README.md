@@ -22,6 +22,5 @@
 | **Certificate ID** | EI26_015 |
 | **Affiliated With** | NSDC & ESSCI |
 
-### 📄 Certificate
-
-🔗 **[View Internship Certificate](./Internship-Certificate-IoT.pdf)**
+###Certificate
+[📜 View Internship Certificate](./Certificates/Internship%20Certificate%20-%20Chandragiri%20Parameswari.pdf)
